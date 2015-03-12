@@ -21,7 +21,7 @@ namespace _3_Thing_Game
 
 
         //Chris was 'ere
-
+        //Josh was here too...
 
         public Game1()
             : base()
