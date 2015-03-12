@@ -28,12 +28,9 @@ namespace _3_Thing_Game
        
 
         //GitBUN BOSS MAN
-<<<<<<< HEAD
         //Henry was here 
-=======
         //Josh was here too...
         //bob was here
->>>>>>> origin/master
 
 
         public Game1()
