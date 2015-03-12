@@ -21,17 +21,17 @@ namespace _3_Thing_Game
 
 
         //Chris was 'ere
-<<<<<<< HEAD
+
         //Luke was ere 2k15
 
         //Hopefully this works
        
-=======
+
         //GitBUN BOSS MAN
         //Josh was here too...
         //bob was here
 
->>>>>>> origin/master
+
         public Game1()
             : base()
         {
