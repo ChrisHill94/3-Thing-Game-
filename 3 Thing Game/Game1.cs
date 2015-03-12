@@ -21,7 +21,7 @@ namespace _3_Thing_Game
 
 
         //Chris was 'ere
-
+        //Luke was ere 2k15
 
         public Game1()
             : base()
