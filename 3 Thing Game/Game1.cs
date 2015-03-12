@@ -22,8 +22,18 @@ namespace _3_Thing_Game
 
         //Chris was 'ere
 
+        //Luke was ere 2k15
+
+        //Hopefully this works
+       
+
         //GitBUN BOSS MAN
+<<<<<<< HEAD
         //Henry was here 
+=======
+        //Josh was here too...
+        //bob was here
+>>>>>>> origin/master
 
 
         public Game1()
